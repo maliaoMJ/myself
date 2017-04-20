@@ -1,0 +1,154 @@
+@charset "UTF8";
+body{
+    padding-top:50px;
+}
+
+#home{
+    width:100%;
+
+    background:url("../img/fall.jpg");
+    background-size:cover;
+    color:white;
+}
+#home .lvjing{
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.5);
+    text-align:center;
+}
+#home .lvjing h3{
+    padding-top:40px;
+    padding-bottom:10px;
+    margin-top:0px;
+
+    font-weight: bold;
+
+
+  }
+#home .lvjing p{
+    
+    font-size:18px;
+}
+#home img{
+    padding-top:20px;
+    padding-bottom:80px;
+    border-radius: 20px;
+
+   
+
+}
+#myself{
+    background:url(../img/lover.jpg);
+    padding-bottom:80px;
+    /*background:red;*/
+
+    text-align:center;
+}
+#myself h2{
+    padding-top:50px;
+    padding-bottom:50px;
+    font-size:30px;
+    font-family:"¡• È";
+}
+#riji{
+    padding-top:80px;
+    padding-bottom:80px;
+    background:rgba(0,0,0,0.3);
+    background:url(../img/dengta.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#riji h3{
+    font-size:20px;
+    font-weight:bold;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top:0px;
+}
+#riji p{
+    line-height: 18px;
+}
+#riji .glyphicon:hover{
+    color:white;
+    transition-duration: 0.5s;
+}
+#xiangce{
+    padding-top:80px;
+    padding-bottom:80px;
+    font-family:'Œ¢»Ì—≈∫⁄';
+    background: rgb(126, 156, 255);
+
+}
+#xiangce h4{
+    text-align: center;
+    padding-top:25px;
+    font-weight: bolder;
+}
+#xiangce h5{
+    padding-top:10px;
+}
+#aboutus{
+
+
+    background:url(../img/map.png);
+    background-size: cover;
+}
+#aboutus .lvjing{
+    padding-top:40px;
+    padding-bottom:60px;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.65);
+
+    color:white;
+}
+#aboutus .lvjing h3{
+    text-align:center;
+    font-size: 30px;
+    font-family: 'Œ¢»Ì—≈∫⁄';
+    padding-bottom: 30px;
+}
+#aboutus .lvjing p{
+    line-height: 25px;
+    margin:25px auto;
+}
+#aboutus .lvjing form span{
+    color:rgba(0,0,0,0.65);
+}
+#aboutus .lvjing form .btn{
+    width: 150px;
+    border-radius:0;
+}
+#aboutus .lvjing form .btn:hover{
+  background:rgba(30,62,30,0.81);
+}
+#footer{
+    width:100%;
+
+    background:gray;
+
+}
+#footer a{
+    color: #2b2b2b;
+}
+#footer a i{
+    font-size:30px;
+    padding-top:20px;
+
+}
+#footer a i:hover{
+    color: white;
+    transition-duration: 0.3s;
+}
+#footer #power{
+    text-align: center;
+}
+#footer #power p{
+
+    padding-top:20px;
+    color:white;
+    padding-bottom:10px;
+}
+
+
